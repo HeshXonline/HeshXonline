@@ -1,19 +1,14 @@
 ````md
-<div align="center">
+# 🚀 Heshan Nethmina
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=f59e0b&height=170&section=header&text=Heshan%20Nethmina&fontSize=44&fontColor=fffaf3&animation=fadeIn&fontAlignY=42&desc=Full-stack%20%C2%B7%20AI%20Engineering%20%C2%B7%20CSE%20%40%20University%20of%20Moratuwa&descSize=15&descAlignY=64&descColor=fffaf3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=f59e0b&height=170&section=header&text=Heshan%20Nethmina&fontSize=44&fontColor=fffaf3&animation=fadeIn&fontAlignY=42&desc=Full-stack%20%C2%B7%20AI%20Engineering%20%C2%B7%20CSE%20%40%20University%20of%20Moratuwa&descSize=15&descAlignY=64&descColor=fffaf3" width="100%"/>
 
 <a href="https://github.com/HeshXonline">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3400&pause=900&color=D97706&center=true&vCenter=true&width=640&height=44&lines=I+build+real+software%2C+not+just+demos.;Full-stack+with+Next.js+%2B+FastAPI;Putting+LLMs+to+actual+engineering+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3400&pause=900&color=D97706&center=true&vCenter=true&width=640&height=44&lines=I+build+real+software%2C+not+just+demos.;Full-stack+with+Next.js+%2B+FastAPI;Putting+LLMs+to+actual+engineering+work" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=HeshXonline&label=Profile%20Views&color=D97706&style=flat-square" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/badge/Based%20in-Colombo%2C%20Sri%20Lanka-D97706?style=flat-square" alt="Location" />
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=HeshXonline&label=Profile%20Views&color=D97706&style=flat-square" />
+<img src="https://img.shields.io/badge/Based%20in-Colombo%2C%20Sri%20Lanka-D97706?style=flat-square" />
 
 ---
 
@@ -21,14 +16,14 @@
 
 I'm a **Computer Science & Engineering undergraduate** at the **University of Moratuwa**, focused on **Software Engineering** and **AI Engineering**.
 
-I learn by building. I'd rather ship one working system and understand every layer of it than collect tutorials. Recently I've been building full-stack applications with **Next.js** and **FastAPI**, along with AI agents that put **LLMs** to practical engineering use.
+I learn by building. I'd rather ship one working system and understand every layer of it than collect tutorials. Recently I’ve been building full-stack apps with **Next.js** and **FastAPI**, and AI agents using **LLMs** for real-world workflows.
 
 ```text
 🎓 University    · University of Moratuwa, Sri Lanka
 📚 Programme     · B.Sc. Computer Science & Engineering — 3rd Year
 🎯 Focus         · Full-stack Development · AI / LLM Engineering
 🧱 Interests     · System Design · Clean Architecture · Applied ML
-♟️ Off-screen    · Strategy games & a good cup of coffee
+♟️ Off-screen    · Strategy games & coffee
 ```
 
 ---
@@ -36,77 +31,57 @@ I learn by building. I'd rather ship one working system and understand every lay
 # 🚀 Featured Projects
 
 ## 🚌 OnTime G1 — IoT Bus Tracking System
+Arduino · C++ · MQTT · GPS/GSM  
+IoT system using Arduino Nano, NEO-6M GPS, and SIM800L GSM to publish real-time tracking via MQTT.
 
-**Arduino · C++ · MQTT · GPS/GSM**
-
-IoT system using Arduino Nano, NEO-6M GPS, and SIM800L GSM to publish real-time bus locations via MQTT. Built for a university fleet management project with a focus on hardware-software integration.
-
-➡️ **Repository:** *(Add GitHub link)*
+➡️ Repo: *(add link)*
 
 ---
 
 ## 🛡️ Security Scanner Triage Agent
+Python · FastAPI · LLMs · Streamlit  
+AI agent that processes Nuclei / Semgrep / Trivy outputs, deduplicates findings, and generates fixes.
 
-**Python · FastAPI · LLMs · Streamlit**
-
-An AI agent that ingests Nuclei, Semgrep, and Trivy JSON reports, deduplicates findings, prioritizes vulnerabilities, and generates concrete code patches—turning scanner noise into actionable fixes.
-
-➡️ **Repository:** *(Add GitHub link)*
+➡️ Repo: *(add link)*
 
 ---
 
 ## 🧠 SynapseAI — Study Companion
+JavaScript · HTML · CSS  
+AI-powered study tool with generation features and model selection.
 
-**JavaScript · HTML · CSS**
-
-An interactive AI-powered study companion featuring image/video generation, multiple model selection, and productivity-focused learning tools.
-
-➡️ **Repository:** *(Add GitHub link)*
+➡️ Repo: *(add link)*
 
 ---
 
 ## 📊 LeadDesk — Lead Management Platform
+TypeScript  
+Full-featured CRM-style dashboard.
 
-**TypeScript**
-
-A full-featured lead management dashboard built with TypeScript.
-
-➡️ **Repository:** *(Add GitHub link)*
+➡️ Repo: *(add link)*
 
 ---
 
 # 🛠️ Tech Stack
 
 ## Languages
-
-<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-</p>
-
----
 
 ## Frameworks & Libraries
-
-<p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-</p>
-
----
+<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 ## Databases & Tools
-
-<p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -114,53 +89,28 @@ A full-featured lead management dashboard built with TypeScript.
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
 
 ---
 
 # 📊 GitHub Stats
 
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HeshXonline&bg_color=FFFBF5&color=B45309&line=D97706&point=44403C&area=true&hide_border=true" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HeshXonline&bg_color=FFFBF5&color=B45309&line=D97706&point=44403C&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=HeshXonline&show_icons=true&hide_border=true&bg_color=FFFBF5&title_color=B45309&icon_color=D97706&text_color=44403C&include_all_commits=true&count_private=true"/>
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshXonline&layout=compact&hide_border=true&bg_color=FFFBF5&title_color=B45309&text_color=44403C"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=HeshXonline&show_icons=true&hide_border=true&bg_color=FFFBF5&title_color=B45309&icon_color=D97706&text_color=44403C&include_all_commits=true&count_private=true&cache_seconds=21600"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshXonline&layout=compact&hide_border=true&bg_color=FFFBF5&title_color=B45309&text_color=44403C&langs_count=8&cache_seconds=21600"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HeshXonline&hide_border=true&background=FFFBF5&stroke=EAE3D6&ring=D97706&fire=B45309&currStreakLabel=B45309&sideLabels=44403C&sideNums=44403C&currStreakNum=44403C&dayLabels=44403C&dates=A8A29E" />
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HeshXonline&hide_border=true&background=FFFBF5&stroke=EAE3D6&ring=D97706"/>
 
 ---
 
 # 🤝 Connect
 
-<p>
-<a href="https://github.com/HeshXonline">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/your-actual-handle">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:heshannetmina169@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-</p>
+- GitHub: https://github.com/HeshXonline  
+- LinkedIn: https://www.linkedin.com/in/your-actual-handle  
+- Email: mailto:heshannetmina169@gmail.com  
 
 ---
 
-<div align="center">
-
-⭐ **Always building something. Open to internships in Software & AI Engineering.**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=f59e0b&height=8&section=footer" width="100%" />
+⭐ Always building something. Open to internships in Software & AI Engineering.
 ````
