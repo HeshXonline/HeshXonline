@@ -30,23 +30,27 @@ I'm a Computer Science & Engineering undergraduate at the **University of Moratu
 
 ---
 
-### &nbsp;🚀&nbsp; Featured Projects
+### 🚀 Featured Projects
 
-**🏥 Hospital Patient Records System**  
-*Next.js · shadcn/ui · FastAPI · PostgreSQL*  
-A full-stack patient management platform built in deliberate phases — starting from core CRUD, then JWT authentication, then full role-based access control with a dedicated portal per user role. The point was to take one system all the way from MVP to production-grade auth and feel every trade-off on the way.  
-➜ &nbsp;[**View Repo →**](https://github.com/HeshXonline/hospital-records)
+**🚌 OnTime G1 — IoT Bus Tracking System**  
+*Arduino · C++ · MQTT · GPS/GSM*  
+IoT system using Arduino Nano, NEO-6M GPS, and SIM800L GSM to publish real-time bus locations via MQTT. Built for a university fleet management project with a focus on hardware-software integration.  
+➜ [**View Repo →**](https://github.com/OnTime-SE-G/ontime-g1)
 
-**🛡️ LLM Security-Scanner Triage Agent**  
-*Python · FastAPI · LLMs*  
-An AI agent that ingests raw security-scanner output and triages it — clustering related findings, cutting false-positive noise, and ranking what actually needs a human's attention. Built to explore where LLMs can do genuine engineering work, not just answer questions.  
-➜ &nbsp;[**View Repo →**](https://github.com/HeshXonline/scanner-triage-agent)
+**🛡️ Security Scanner Triage Agent**  
+*Python · FastAPI · LLMs · Streamlit*  
+An AI agent that ingests Nuclei/Semgrep/Trivy JSON output, deduplicates findings, and generates concrete code patches — turning scanner noise into actionable fixes.[reference:1]  
+➜ [**View Repo →**](https://github.com/Heshan-Nethmina/Security-Scanner-Triage-Agent)
 
-**🎨 Personal Portfolio**  
-*Next.js · TypeScript*  
-A portfolio site with a deliberately editorial, hand-built feel — warm tones, serif display type, and none of the usual "AI-generated" gloss.  
-➜ &nbsp;[**View Repo →**](https://github.com/HeshXonline/portfolio)
+**🧠 SynapseAI — Study Companion**  
+*JavaScript · CSS · HTML*  
+An interactive study companion tool with image/video generation and model selection features.[reference:2]  
+➜ [**View Repo →**](https://github.com/HeshXonline/SynapseAI)
 
+**📊 LeadDesk — Lead Management Platform**  
+*TypeScript*  
+A full-featured lead management dashboard built with TypeScript.[reference:3]  
+➜ [**View Repo →**](https://github.com/HeshXonline/leaddesk)
 ---
 
 ### &nbsp;🛠️&nbsp; Tech Stack
